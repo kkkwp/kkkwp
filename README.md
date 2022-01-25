@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=#8B89CC&height=300&section=header)
+![header](https://capsule-render.vercel.app/api?type=waving&color=#8B89CC&height=300&section=header&fontAlignX=45&fontAlignY=65&fontSize=100)
 
 <h3 align="center"> 🛠 Tech Stack 🛠 </h3>
 
@@ -27,3 +27,5 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
   <a href="mailto:chxrryda@gmail.com"><img src="https://img.shields.io/badge/Gmail-ea4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chxrryda@gmail.com"/></a>
 </p>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=#8B89CC&height=100&section=footer)
