@@ -27,7 +27,10 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Tech_Blog-262626?style=flat-square&logo=DwaveSystems&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
-  <a href="mailto:chxrryda@gmail.com"><img src="https://img.shields.io/badge/Gmail-ea4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:chxrryda@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-ea4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=f7b4be&height=100&section=footer)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkkwp)](https://solved.ac/kkkwp)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=kkkwp&theme=dark)
