@@ -27,7 +27,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Tech_Blog-262626?style=flat-square&logo=DwaveSystems&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gmail-ea4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chxrryda@gmail.com"/>
+  <a href="mailto:chxrryda@gmail.com"><img src="https://img.shields.io/badge/Gmail-ea4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=8B89CC&height=100&section=footer)
