@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=8B89CC&height=200&section=header&fontAlignX=45&fontAlignY=65&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=waving&color=fba4af&height=200&section=header&fontAlignX=45&fontAlignY=65&fontSize=100)
 
 <h3 align="center"> 👋 Hi there 👋 </h3>
 
@@ -30,4 +30,4 @@
   <a href="mailto:chxrryda@gmail.com"><img src="https://img.shields.io/badge/Gmail-ea4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=8B89CC&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=f7b4be&height=100&section=footer)
