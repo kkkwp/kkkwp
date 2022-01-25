@@ -26,7 +26,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Tech_Blog-262626?style=flat-square&logo=DwaveSystems&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+  <a href="https://www.notion.so/kkkwp/" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
   <a href="mailto:chxrryda@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-ea4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
