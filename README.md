@@ -6,6 +6,7 @@
 
 <h3> 👾 Activities </h3>
 
+- 신한투자증권 ICT부문 인턴(플랫폼개발부/정보시스템부), 2023.10 ~ 2023.11
 - 신한투자증권 채용연계형 프로 디지털 아카데미 2기, 2023.07 ~ 2023.10
 - 카카오(Kakao) 클라우드 개발자 양성과정 2기, 2022.11 ~ 2023.05
 - 삼성전자 DX부문 하계 SW 역량강화 특강, 2022.07 ~ 2022.08
@@ -19,6 +20,8 @@
 
 <h3> 🧩 Projects </h3>
 
+- [금융사기피해 에방을 위한 신원 및 데이터 인증 서비스 'Check You'](https://github.com/check-you)
+<br> 신한투자증권 인턴 최종 프로젝트 - 프론트/백엔드
 - [주식 초보자들을 위한 배당금 수익 예측 서비스 'Bulls & Bears'](https://github.com/bulls-and-bears)
 <br> 프로 디지털 아카데미 2기 최종 프로젝트 - 백엔드, CI/CD
 - [WebRTC 기반 실시간 음악 게임 'MusicQ'](https://github.com/Dream-Kakao)
