@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- portfolio: https://chaeyun.vercel.app
+- blog: https://chxrryda.tistory.com
+
+![chaeyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkkwp&count_private=true&theme=dracula&show_icons=true)
