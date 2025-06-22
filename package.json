@@ -1,0 +1,25 @@
+{
+  "name": "kkkwp",
+  "version": "1.0.0",
+  "description": "<!-- **kkkwp/kkkwp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kkkwp/kkkwp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kkkwp/kkkwp/issues"
+  },
+  "homepage": "https://github.com/kkkwp/kkkwp#readme",
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}
