@@ -34,9 +34,9 @@
 
 <h2>  Latest Blog Posts  </h2>
 
+- [프로그래머스 Java 단어 변환](https://chxrryda.tistory.com/277)
 - [프로그래머스 Java 야근 지수](https://chxrryda.tistory.com/276)
 - [프로그래머스 Java 이중우선순위큐](https://chxrryda.tistory.com/274)
 - [프로그래머스 Java 네트워크](https://chxrryda.tistory.com/273)
 - [프로그래머스 Java 더 맵게](https://chxrryda.tistory.com/272)
-- [소수 찾기 (에라토스테네스의 체)](https://chxrryda.tistory.com/271)
 
