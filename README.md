@@ -34,9 +34,9 @@
 
 <h2>  Latest Blog Posts  </h2>
 
+- [프로그래머스 Java 등굣길](https://chxrryda.tistory.com/281)
 - [[스프링 입문] 웹 개발 방법 3가지](https://chxrryda.tistory.com/280)
 - [[스프링 입문] 정적 View](https://chxrryda.tistory.com/279)
 - [프로그래머스 Java 정수 삼각형](https://chxrryda.tistory.com/278)
 - [프로그래머스 Java 단어 변환](https://chxrryda.tistory.com/277)
-- [프로그래머스 Java 야근 지수](https://chxrryda.tistory.com/276)
 
