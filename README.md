@@ -34,9 +34,9 @@
 
 <h2>  Latest Blog Posts  </h2>
 
+- [백준 Java 퇴사](https://chxrryda.tistory.com/284)
 - [프로그래머스 Java 단속카메라](https://chxrryda.tistory.com/283)
 - [프로그래머스 Java 최고의 집합](https://chxrryda.tistory.com/282)
 - [프로그래머스 Java 등굣길](https://chxrryda.tistory.com/281)
 - [[스프링 입문] 웹 개발 방법 3가지](https://chxrryda.tistory.com/280)
-- [[스프링 입문] 정적 View](https://chxrryda.tistory.com/279)
 
