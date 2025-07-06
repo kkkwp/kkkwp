@@ -34,9 +34,9 @@
 
 <h2>  Latest Blog Posts  </h2>
 
+- [백준 Java 스타트와 링크](https://chxrryda.tistory.com/287)
+- [IntelliJ 초기 셋팅](https://chxrryda.tistory.com/286)
 - [백준 Java 연산자 끼워넣기](https://chxrryda.tistory.com/285)
 - [백준 Java 퇴사](https://chxrryda.tistory.com/284)
 - [프로그래머스 Java 단속카메라](https://chxrryda.tistory.com/283)
-- [프로그래머스 Java 최고의 집합](https://chxrryda.tistory.com/282)
-- [프로그래머스 Java 등굣길](https://chxrryda.tistory.com/281)
 
