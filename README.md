@@ -34,9 +34,9 @@
 
 <h2>  Latest Blog Posts  </h2>
 
-- [백준 Java 스타트와 링크](https://chxrryda.tistory.com/287)
+- [백준 Java 14503 로봇 청소기](https://chxrryda.tistory.com/288)
+- [백준 Java 14889 스타트와 링크](https://chxrryda.tistory.com/287)
 - [IntelliJ 초기 셋팅](https://chxrryda.tistory.com/286)
-- [백준 Java 연산자 끼워넣기](https://chxrryda.tistory.com/285)
-- [백준 Java 퇴사](https://chxrryda.tistory.com/284)
-- [프로그래머스 Java 단속카메라](https://chxrryda.tistory.com/283)
+- [백준 Java 14888 연산자 끼워넣기](https://chxrryda.tistory.com/285)
+- [백준 Java 14501 퇴사](https://chxrryda.tistory.com/284)
 
