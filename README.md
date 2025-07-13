@@ -34,9 +34,9 @@
 
 <h2>  Latest Blog Posts  </h2>
 
+- [백준 Java 21608 상어 초등학교](https://chxrryda.tistory.com/294)
 - [백준 Java 21610 마법사 상어와 비바라기](https://chxrryda.tistory.com/293)
 - [백준 Java 20055 컨베이어 벨트 위의 로봇](https://chxrryda.tistory.com/292)
 - [백준 Java 15686 치킨 배달](https://chxrryda.tistory.com/291)
 - [백준 Java 14891 톱니바퀴](https://chxrryda.tistory.com/290)
-- [백준 Java 14503 로봇 청소기](https://chxrryda.tistory.com/288)
 
