@@ -34,9 +34,9 @@
 
 <h2>  Latest Blog Posts  </h2>
 
+- [백준 Java 14499 주사위 굴리기](https://chxrryda.tistory.com/298)
 - [백준 Java 3190 뱀](https://chxrryda.tistory.com/297)
 - [프로그래머스 Java 연속 펄스 부분 수열의 합](https://chxrryda.tistory.com/296)
 - [프로그래머스 Java 숫자 게임](https://chxrryda.tistory.com/295)
 - [백준 Java 21608 상어 초등학교](https://chxrryda.tistory.com/294)
-- [백준 Java 21610 마법사 상어와 비바라기](https://chxrryda.tistory.com/293)
 
