@@ -34,9 +34,9 @@
 
 <h2>  Latest Blog Posts  </h2>
 
+- [백준 Java 14502 연구소](https://chxrryda.tistory.com/300)
 - [백준 Java 14500 테트로미노](https://chxrryda.tistory.com/299)
 - [백준 Java 14499 주사위 굴리기](https://chxrryda.tistory.com/298)
 - [백준 Java 3190 뱀](https://chxrryda.tistory.com/297)
 - [프로그래머스 Java 연속 펄스 부분 수열의 합](https://chxrryda.tistory.com/296)
-- [프로그래머스 Java 숫자 게임](https://chxrryda.tistory.com/295)
 
