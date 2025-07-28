@@ -34,9 +34,9 @@
 
 <h2>  Latest Blog Posts  </h2>
 
+- [백준 Java 17140 이차원 배열과 연산](https://chxrryda.tistory.com/305)
 - [프로그래머스 Java 스티커 모으기(2)](https://chxrryda.tistory.com/304)
 - [프로그래머스 Java 여행경로](https://chxrryda.tistory.com/303)
 - [백준 Java 17144 미세먼지 안녕!](https://chxrryda.tistory.com/302)
 - [백준 Java 16234 인구 이동](https://chxrryda.tistory.com/301)
-- [백준 Java 14502 연구소](https://chxrryda.tistory.com/300)
 
