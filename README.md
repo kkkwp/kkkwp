@@ -34,9 +34,9 @@
 
 <h2>  Latest Blog Posts  </h2>
 
+- [백준 Java 1967 트리의 지름](https://chxrryda.tistory.com/309)
 - [백준 Java 1753 최단경로](https://chxrryda.tistory.com/308)
 - [백준 Java 13549 숨바꼭질 3](https://chxrryda.tistory.com/307)
 - [백준 Java 20056 마법사 상어와 파이어볼](https://chxrryda.tistory.com/306)
 - [백준 Java 17140 이차원 배열과 연산](https://chxrryda.tistory.com/305)
-- [프로그래머스 Java 스티커 모으기(2)](https://chxrryda.tistory.com/304)
 
