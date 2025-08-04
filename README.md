@@ -34,9 +34,9 @@
 
 <h2>  Latest Blog Posts  </h2>
 
+- [벨만-포드 알고리즘](https://chxrryda.tistory.com/312)
+- [백준 Java 1865 웜홀](https://chxrryda.tistory.com/311)
 - [백준 Java 1238 파티](https://chxrryda.tistory.com/310)
 - [백준 Java 1967 트리의 지름](https://chxrryda.tistory.com/309)
 - [백준 Java 1753 최단경로](https://chxrryda.tistory.com/308)
-- [백준 Java 13549 숨바꼭질 3](https://chxrryda.tistory.com/307)
-- [백준 Java 20056 마법사 상어와 파이어볼](https://chxrryda.tistory.com/306)
 
