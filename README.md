@@ -34,9 +34,9 @@
 
 <h2>  Latest Blog Posts  </h2>
 
+- [백준 Java 1167 트리의 지름](https://chxrryda.tistory.com/314)
 - [[데이터베이스 모델링] 관계형 데이터베이스](https://chxrryda.tistory.com/313)
 - [벨만-포드 알고리즘](https://chxrryda.tistory.com/312)
 - [백준 Java 1865 웜홀](https://chxrryda.tistory.com/311)
 - [백준 Java 1238 파티](https://chxrryda.tistory.com/310)
-- [백준 Java 1967 트리의 지름](https://chxrryda.tistory.com/309)
 
