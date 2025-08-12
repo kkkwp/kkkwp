@@ -34,9 +34,9 @@
 
 <h2>  Latest Blog Posts  </h2>
 
+- [[모델링] 주식별자](https://chxrryda.tistory.com/317)
 - [백준 Java 14890 경사로](https://chxrryda.tistory.com/316)
 - [백준 Java 11333 피보나치 수 6](https://chxrryda.tistory.com/315)
 - [백준 Java 1167 트리의 지름](https://chxrryda.tistory.com/314)
-- [관계형 데이터베이스(RDBMS)](https://chxrryda.tistory.com/313)
-- [벨만-포드 알고리즘](https://chxrryda.tistory.com/312)
+- [[모델링] 관계형 데이터베이스(RDBMS)](https://chxrryda.tistory.com/313)
 
