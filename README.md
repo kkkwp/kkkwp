@@ -34,9 +34,9 @@
 
 <h2>  Latest Blog Posts  </h2>
 
+- [[Docker] MySQL 설치 및 접속](https://chxrryda.tistory.com/321)
 - [프로그래머스 Java 섬 연결하기](https://chxrryda.tistory.com/320)
 - [[모델링] 데이터 타입](https://chxrryda.tistory.com/319)
 - [프로그래머스 Java 베스트앨범](https://chxrryda.tistory.com/318)
 - [[모델링] 주식별자](https://chxrryda.tistory.com/317)
-- [백준 Java 14890 경사로](https://chxrryda.tistory.com/316)
 
