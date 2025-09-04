@@ -10,8 +10,10 @@ const parser = new Parser({
   },
 });
 
-const formatDate = (dateString) =>
-  new Intl.DateTimeFormat('en-CA').format(date).replace(/-/g, '/');
+const formatDate = (dateString) => {
+  const date = new Date(dateString);
+  return new Intl.DateTimeFormat('en-CA').format(date).replace(/-/g, '/');
+};
  
 (async () => {
   const feed = await parser.parseURL("https://chxrryda.tistory.com/rss");
