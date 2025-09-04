@@ -9,14 +9,18 @@ const parser = new Parser({
     Accept: "application/rss+xml, application/xml, text/xml; q=0.1",
   },
 });
+
+const formatDate = (dateString) =>
+  new Intl.DateTimeFormat('en-CA').format(date).replace(/-/g, '/');
  
 (async () => {
   const feed = await parser.parseURL("https://chxrryda.tistory.com/rss");
  
   let latestPosts = "<h2>  Latest Blog Posts  </h2>\n\n";
   for (let i = 0; i < 5 && i < feed.items.length; i++) {
-    const { title, link } = feed.items[i];
-    latestPosts += `- [${title}](${link})\n`;
+    const { title, link, pubDate } = feed.items[i];
+    const formattedDate = formatDate(pubDate);
+    latestPosts += `- [${formattedDate} - ${title}](${link})\n`;
   }
 
   const newReadmeContent = readmeContent.includes("<h2>  Latest Blog Posts  </h2>")
