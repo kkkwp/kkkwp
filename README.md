@@ -34,9 +34,9 @@
 
 <h2>  Latest Blog Posts  </h2>
 
+- [2025/09/10 - 프로그래머스 Java 징검다리 건너기](https://chxrryda.tistory.com/325)
 - [2025/09/09 - 프로그래머스 Java 불량 사용자](https://chxrryda.tistory.com/324)
 - [2025/09/05 - @Lombok 생성자 총정리!](https://chxrryda.tistory.com/323)
 - [2025/08/31 - 프로그래머스 Java 입국심사](https://chxrryda.tistory.com/322)
 - [2025/08/29 - 도커로 MySQL 설치하고 접속하기](https://chxrryda.tistory.com/321)
-- [2025/08/28 - 프로그래머스 Java 섬 연결하기](https://chxrryda.tistory.com/320)
 
