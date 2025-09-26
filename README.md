@@ -34,9 +34,9 @@
 
 <h2>  Latest Blog Posts  </h2>
 
-- [2025/09/19 - Promise 객체와 fetch API vs. axios](https://chxrryda.tistory.com/326)
 - [2025/09/05 - @Lombok 생성자 총정리!](https://chxrryda.tistory.com/323)
 - [2025/08/29 - 도커로 MySQL 설치하고 접속하기](https://chxrryda.tistory.com/321)
 - [2025/08/27 - 데이터베이스 데이터 타입 알아보기](https://chxrryda.tistory.com/319)
 - [2025/08/12 - 데이터베이스에서 PK 정하기](https://chxrryda.tistory.com/317)
+- [2025/08/04 - 관계형 데이터베이스](https://chxrryda.tistory.com/313)
 
