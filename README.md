@@ -34,9 +34,9 @@
 
 <h2>  Latest Blog Posts  </h2>
 
+- [2025/10/24 - 단일 장애 지점(SPOF)과 이에 대응하는 방법들](https://chxrryda.tistory.com/328)
 - [2025/10/17 - AWS로 서비스 배포하기 (HTTPS와 ALB까지)](https://chxrryda.tistory.com/327)
 - [2025/09/05 - @Lombok 생성자 총정리!](https://chxrryda.tistory.com/323)
 - [2025/08/29 - 도커로 MySQL 설치하고 접속하기](https://chxrryda.tistory.com/321)
 - [2025/08/27 - 데이터베이스 데이터 타입 알아보기](https://chxrryda.tistory.com/319)
-- [2025/08/12 - 데이터베이스에서 PK 정하기](https://chxrryda.tistory.com/317)
 
