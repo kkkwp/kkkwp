@@ -36,7 +36,7 @@
 
 - [2025/10/27 - 무중단 배포(Zero-downtime Deployment)](https://chxrryda.tistory.com/329)
 - [2025/10/24 - 단일 장애 지점(SPOF)과 이에 대응하는 방법들](https://chxrryda.tistory.com/328)
-- [2025/10/17 - AWS로 서비스 배포하기 (HTTPS와 ALB까지)](https://chxrryda.tistory.com/327)
+- [2025/10/17 - [AWS] ALB 이용해서 AWS로 서비스 배포하기](https://chxrryda.tistory.com/327)
 - [2025/09/05 - @Lombok 생성자 총정리!](https://chxrryda.tistory.com/323)
-- [2025/08/29 - 도커로 MySQL 설치하고 접속하기](https://chxrryda.tistory.com/321)
+- [2025/08/29 - [Docker] MySQL 설치하고 접속하기](https://chxrryda.tistory.com/321)
 
