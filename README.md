@@ -34,9 +34,9 @@
 
 <h2>  Latest Blog Posts  </h2>
 
+- [2025/10/30 - Yocto 프로젝트 클론 및 첫 빌드](https://chxrryda.tistory.com/332)
 - [2025/10/28 - 인접 행렬 vs. 인접 리스트](https://chxrryda.tistory.com/331)
 - [2025/10/28 - Spring Boot에서 서비스를 우아하게 종료하기(Graceful Shutdown)](https://chxrryda.tistory.com/330)
 - [2025/10/27 - 무중단 배포 - 롤링, 블루-그린, 카나리 배포](https://chxrryda.tistory.com/329)
 - [2025/10/24 - 단일 장애 지점(SPOF)과 이에 대응하는 방법들](https://chxrryda.tistory.com/328)
-- [2025/10/17 - [AWS] ALB 이용해서 AWS로 서비스 배포하기](https://chxrryda.tistory.com/327)
 
