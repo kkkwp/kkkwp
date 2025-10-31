@@ -34,9 +34,9 @@
 
 <h2>  Latest Blog Posts  </h2>
 
+- [2025/10/31 - [Git] Git Submodule로 민감한 정보 관리하기](https://chxrryda.tistory.com/335)
 - [2025/10/31 - [Yocto] 나만의 레이어 만들어보기](https://chxrryda.tistory.com/334)
 - [2025/10/31 - [Yocto] Bitbake 명령어 모음](https://chxrryda.tistory.com/333)
 - [2025/10/30 - Yocto 프로젝트를 클론하고 빌드해보자](https://chxrryda.tistory.com/332)
 - [2025/10/28 - 인접 행렬 vs. 인접 리스트](https://chxrryda.tistory.com/331)
-- [2025/10/28 - Spring Boot에서 서비스를 우아하게 종료하기(Graceful Shutdown)](https://chxrryda.tistory.com/330)
 
